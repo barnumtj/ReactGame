@@ -6,9 +6,13 @@
     margin-bottom: 50px;
     background-color: #C11125;
     height: auto;
-    font-family: 'Bungee', cursive;
+    font-family: 'Bungee';
 }
 
 #directions {
     text-align: center;
+}
+
+.pTag {
+    margin: auto 0;
 }
