@@ -2,8 +2,6 @@ import React from 'react';
 import "./card.css";
 import '../../cards.json'
 
-
-
 const styles = {
 	card: {
         maxWidth: 225,
